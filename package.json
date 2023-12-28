@@ -1,0 +1,20 @@
+{
+  "name": "lep-mixtral-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite-node index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.24.1",
+    "langchain": "^0.0.212"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite-node": "^0.34.6",
+    "@types/node": "^20.10.5"
+  }
+}
